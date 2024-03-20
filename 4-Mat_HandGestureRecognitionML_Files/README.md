@@ -1,4 +1,4 @@
-*************************************Hand Gesture Reconition System Using ML****************************************************************************************
+#Hand Gesture Reconition System Using ML
 
 This project contains below sections and the scripts and datasets used are explained sectionwised.
 
